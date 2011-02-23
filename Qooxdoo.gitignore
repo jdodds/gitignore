@@ -1,5 +1,9 @@
-cache
-cache-downloads
-inspector
-api
-source/inspector.html
+*/*/source/script/*js
+*/*/api
+*/*/cache*
+*/*/test
+*/*/source/backup
+*/*/inspector
+*/*/source/inspector.html
+*/*/build
+
